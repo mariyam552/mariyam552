@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Maryam
 
-<!--
-**mariyam552/mariyam552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Full Stack Java Developer** passionate about creating efficient, scalable, and user-friendly applications.  
 
-Here are some ideas to get you started:
+## 💻 Skills & Expertise
+- **Frontend:** React.js  
+- **Backend:** Java  
+- **Databases:** SQL  
+- **Tools & Technologies:** SonarQube, Unit Testing (JUnit & Mockito)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Develop responsive and interactive web applications  
+- Write clean, maintainable, and testable code  
+- Implement backend services and integrate with databases  
+- Perform code quality checks and automated testing  
+
+## 📫 Let's Connect
+- **LinkedIn:** https://www.linkedin.com/in/mariyam-nasir-9266332b7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
