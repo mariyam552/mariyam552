@@ -18,5 +18,7 @@ I am a **Full Stack Java Developer** passionate about creating efficient, scalab
 - **Contact Management System** (Full Stack: React.js + Spring Boot + SQL Server) – [View on GitHub](https://github.com/mariyam552/ContactManagementSystem)
   - **Frontend:** [React app](https://github.com/mariyam552/ContactManagementSystem/tree/main/frontend)
   - **Backend:** [Spring Boot API](https://github.com/mariyam552/ContactManagementSystem/tree/main/contactManagementBackend)
+  - **🔒 *Private repository.** Source code is not publicly available.
+  - Happy to walk through the project, its architecture, or a live demo on request.
 ** Let's Connect**
 - **LinkedIn:** [Mariyam Nasir](https://www.linkedin.com/in/mariyam-nasir-9266332b7)
